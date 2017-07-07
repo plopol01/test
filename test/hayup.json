@@ -1,7 +1,7 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
+    "name": "Baboy",
+    "species" : "pig",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
